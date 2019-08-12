@@ -13,5 +13,4 @@ I've provided a blog post for the this project, follow the links below!
 ### Docker Instructions
 1. `docker build . -t packet-analytics`
 2. `docker run -i -t --rm -p 8888:8888 packet-analytics`
-3. `cd packet-analytics`
-4. `anaconda-project run`
+3. `cd packet-analytics` | `anaconda-project run`
